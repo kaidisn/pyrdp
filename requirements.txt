@@ -28,5 +28,5 @@ scapy==2.4.4
 service-identity==18.1.0
 shiboken2==5.15.1
 six==1.15.0
-Twisted==20.3.0
+Twisted==22.1.0
 zope.interface==5.1.2
